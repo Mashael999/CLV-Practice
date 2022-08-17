@@ -7,7 +7,7 @@ This project aim to use Machine learning to predict the Customer Lifetime Value
 
 
 # About the Repository:
-- [Dataset]()
+- [Dataset](https://github.com/Mashael999/CLV-Stock-Market/tree/main/Dataset)
 - [Jupyter Notebooks]()
 
 ### Contact Me
