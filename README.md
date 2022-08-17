@@ -7,9 +7,8 @@ This project aim to use Machine learning to predict the Customer Lifetime Value
 
 
 # About the Repository:
-- [Project Proposal](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/tree/main/Proposal)
-- [Dataset](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/tree/main/Dataset)
-- [Jupyter Notebooks](https://github.com/Mashael999/Cardiovascular-Disease-Classification-Project/blob/main/Code/Cardiovascular_Disease_dataset%20(2).ipynb)
+- [Dataset]()
+- [Jupyter Notebooks]()
 
 ### Contact Me
 For any questions please contact me <br/>
